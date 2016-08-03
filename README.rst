@@ -295,3 +295,5 @@ To run tests for only one version need to specify it::
 
 More information about automated tests for Mistral can be found on
 `Mistral Wiki <https://wiki.openstack.org/wiki/Mistral/Testing>`_.
+
+change
